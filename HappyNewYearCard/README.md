@@ -2,7 +2,7 @@
  Kotlin App Dev.
 
 Public repository
-![TheMaster](https://github.com/Mawuli87/android/blob/master/WordBF/jesus.jpg)
+![TheMaster](HappyNewYearCard/Screenshot (41).png)
 
 It uses a BitmapShader and *does not*:
 * create a copy of the original bitmap
