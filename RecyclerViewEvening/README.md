@@ -21,21 +21,39 @@ dependencies {
 Usage
 -----
 xml
- <ImageView
-            android:id="@+id/diceOne"
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:layout_gravity="bottom|center"
-            android:src="@drawable/dice_1"
-            app:srcCompat="@drawable/dice_1" />
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
 
         <ImageView
-            android:id="@+id/diceTwo"
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:layout_gravity="bottom|center"
-            android:src="@drawable/empty_dice"
-            app:srcCompat="@drawable/dice_1" />
+            android:id="@+id/imageview"
+            android:layout_width="150dp"
+            android:layout_height="140dp"
+            android:layout_marginEnd="15dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"
+                android:text="Item" />
+
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="30dp"
+                android:text="Description" />
+        </LinearLayout>
 		
 
 
