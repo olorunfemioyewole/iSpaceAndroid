@@ -5,7 +5,7 @@ Public repository
 ![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/MultipleActivityApp/Screenshot%20(62).png)
 ![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/MultipleActivityApp/Screenshot%20(60).png)
 ![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/MultipleActivityApp/Screenshot%20(59).png)
-![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/MultipleActivityApp/multipleActivityApp.mp4)
+![Video](https://github.com/KingElias-1/iSpaceAndroid/blob/main/MultipleActivityApp/multipleActivityApp.mp4)
 
 It uses Intent to switch between different activities with quotes
 
