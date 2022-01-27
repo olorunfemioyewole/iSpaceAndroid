@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MultipleActivityApp</string>
+
+    <string name="quote1">“First, solve the problem. Then, write the code.”</string>
+    <string name="authq1">– John Johnson</string>
+
+    <string name="quote2">“Experience is the name everyone gives to their mistakes.”</string>
+    <string name="authq2">– Oscar Wilde</string>
+
+    <string name="quote3">“In order to be irreplaceable, one must always be different”</string>
+    <string name="authq3">– Coco Chanel</string>
+
+    <string name="quote4">“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</string>
+    <string name="authq4">– Martin Fowler</string>
+
+    <string name="quote5">“Java is to JavaScript what car is to Carpet.”</string>
+    <string name="authq5">– Chris Heilmann</string>
+
+    <string name="quote6">“Knowledge is power.”</string>
+    <string name="authq6">– Francis Bacon</string>
+
+    <string name="quote7">“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”</string>
+    <string name="authq7">– Dan Salomon</string>
+
+    <string name="quote8">“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”</string>
+    <string name="authq8">– Antoine de Saint-Exupery</string>
+
+    <string name="quote9">“ Code is like humor. When you have to explain it, it’s bad.”</string>
+    <string name="authq9">– Cory House</string>
+
+    <string name="quote10">“Fix the cause, not the symptom.”</string>
+    <string name="authq10">– Steve Maguire</string>
+    <string name="next_quote">Next\nQuote</string>
+    <string name="previous_quote">Previous\nQuote</string>
+    <string name="quotes_button">Quotes</string>
+    <string name="welcome">Welcome</string>
+
+</resources>

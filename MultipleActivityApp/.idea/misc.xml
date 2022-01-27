@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_main.xml" value="0.40960163432073543" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote1.xml" value="0.40960163432073543" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote10.xml" value="0.40960163432073543" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote2.xml" value="0.40960163432073543" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote3.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote4.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote5.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote6.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote7.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote8.xml" value="0.41770833333333335" />
+        <entry key="..\:/Users/myPC/AndroidStudioProjects/iSpaceWeek5Live/MultipleActivityApp/app/src/main/res/layout/activity_quote9.xml" value="0.41770833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
