@@ -3,8 +3,8 @@
 
 Public repository
 ![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/BootCampLearners/Screenshot%20(66).png)
-![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/BootCampLearners/Screenshot%20(64).png)
 ![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/BootCampLearners/Screenshot%20(65).png)
+![Screenshot](https://github.com/KingElias-1/iSpaceAndroid/blob/main/BootCampLearners/Screenshot%20(64).png)
 
 It uses Intent to switch between different activities with quotes
 
